@@ -16,3 +16,15 @@ I Am currently Working As Software Engineer at LTI Mindtree <br>I have Knowledge
 [![](https://visitcount.itsvg.in/api?id=rohanshirsat31&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rohanshirsat31/rohanshirsat31/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rohanshirsat31/rohanshirsat31/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
